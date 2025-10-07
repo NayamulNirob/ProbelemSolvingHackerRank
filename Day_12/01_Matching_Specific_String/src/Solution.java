@@ -6,7 +6,7 @@ We can match a specific string X in a test string S by making our regex pattern 
 
 Task
 
-You have a test string S. Your task is to match the string hackerrank. This is case sensitive.
+You have a test string S. Your task is to match the string hackerrank. This is case-sensitive.
 
 Note
 
